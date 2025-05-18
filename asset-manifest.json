@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mors6960/Ansh_Blog/static/css/main.08b0887f.css",
-    "main.js": "/mors6960/Ansh_Blog/static/js/main.5d177324.js",
-    "static/js/453.6ee4f811.chunk.js": "/mors6960/Ansh_Blog/static/js/453.6ee4f811.chunk.js",
-    "static/media/InterVariable-Italic.woff2": "/mors6960/Ansh_Blog/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
-    "static/media/InterVariable.woff2": "/mors6960/Ansh_Blog/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
-    "static/media/primeicons.svg": "/mors6960/Ansh_Blog/static/media/primeicons.6ed59f962963a4a73af2.svg",
-    "static/media/primeicons.eot": "/mors6960/Ansh_Blog/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
-    "static/media/primeicons.woff": "/mors6960/Ansh_Blog/static/media/primeicons.8931fda1930c3bd21e96.woff",
-    "static/media/primeicons.ttf": "/mors6960/Ansh_Blog/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
-    "static/media/primeicons.woff2": "/mors6960/Ansh_Blog/static/media/primeicons.024b32cc7bf399b1a847.woff2",
-    "index.html": "/mors6960/Ansh_Blog/index.html",
-    "main.08b0887f.css.map": "/mors6960/Ansh_Blog/static/css/main.08b0887f.css.map",
-    "main.5d177324.js.map": "/mors6960/Ansh_Blog/static/js/main.5d177324.js.map",
-    "453.6ee4f811.chunk.js.map": "/mors6960/Ansh_Blog/static/js/453.6ee4f811.chunk.js.map"
+    "main.css": "/Ansh_Blog/static/css/main.a0a8544d.css",
+    "main.js": "/Ansh_Blog/static/js/main.96572af2.js",
+    "static/js/453.6ee4f811.chunk.js": "/Ansh_Blog/static/js/453.6ee4f811.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/Ansh_Blog/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/Ansh_Blog/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/Ansh_Blog/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/Ansh_Blog/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/Ansh_Blog/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/Ansh_Blog/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/Ansh_Blog/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/Ansh_Blog/index.html",
+    "main.a0a8544d.css.map": "/Ansh_Blog/static/css/main.a0a8544d.css.map",
+    "main.96572af2.js.map": "/Ansh_Blog/static/js/main.96572af2.js.map",
+    "453.6ee4f811.chunk.js.map": "/Ansh_Blog/static/js/453.6ee4f811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.08b0887f.css",
-    "static/js/main.5d177324.js"
+    "static/css/main.a0a8544d.css",
+    "static/js/main.96572af2.js"
   ]
 }
